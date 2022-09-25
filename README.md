@@ -1,7 +1,7 @@
 # WhatsApp Chatbot
 
 using `twilio` and `python`
-Checkout [this documentaion]() to know how to build your own whatsapp chatbot.
+Checkout [this documentaion](https://github.com/prajeshElEvEn/wp-chatbot/blob/master/documentation.md) to know how to build your own whatsapp chatbot.
 
 ## Resources
 
