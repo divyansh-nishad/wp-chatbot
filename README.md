@@ -4,10 +4,9 @@ using `twilio` and `python`
 
 ## Resources
 
-<!-- - [Python]() -->
-- [Twilio](https://www.twilio.com/)
+- [twilio](https://www.twilio.com/)
 - [Flask](https://flask.palletsprojects.com/en/2.2.x/)
-<!-- - [WhatsApp]() -->
+- [ngrok](https://ngrok.com/)
 
 ## References
 
