@@ -16,3 +16,7 @@ def sms_reply():
     resp = MessagingResponse()
     resp.message("You said: {}".format(msg))
     return str(resp)
+
+
+if __name__ == "__main__":
+    app.run(debug=True)
